@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <div>PROYECTO FRONT PARA PIPELINE</div>
+        <div>PROYECTO FRONT PARA PIPELINE 1.1</div>
       </header>
     </div>
   );
